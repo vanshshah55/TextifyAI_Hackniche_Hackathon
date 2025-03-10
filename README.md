@@ -3,6 +3,7 @@
 An AI-powered creative assistant designed for **writers, poets, and filmmakers**, enhancing content generation, editing, collaboration, and version control. The system includes AI-assisted **text editing, content generation, video scripting, and storytelling automation** to streamline the creative process.
 
 ---
+## Overview (Video Soon)
 
 ![image](https://github.com/user-attachments/assets/235d9188-fbcd-463e-bef2-eae6f196867b)
 ![image](https://github.com/user-attachments/assets/b7bfda9e-8dcb-467c-94ce-e35d05adbb31)
@@ -11,6 +12,7 @@ An AI-powered creative assistant designed for **writers, poets, and filmmakers**
 ## 🌟 Features
 
 ### 📝 AI-Powered Text Editor
+![image](https://github.com/user-attachments/assets/11c9db7a-ef77-4f2f-b989-136da84c4d5a)
 - **AI Generation**: Creates **articles, scripts, dialogues, and scene descriptions**.
 - **AI Enhancer**: Improves **grammar, readability, and engagement**.
 - **AI Auto-Complete**: Predicts and suggests **words, phrases, and sentences**.
@@ -19,8 +21,8 @@ An AI-powered creative assistant designed for **writers, poets, and filmmakers**
 - **Grammar Check**: Provides **AI-based correction and tone adjustment**.
 - **Voice Assistance**: **Text to speech & Speech to text functionality**.
 - **Document Analytics**: Tracks **real-time** word count, characters, paragraphs, reading & speaking time, session duration, words per minute, and average paragraph & word length.
-![image](https://github.com/user-attachments/assets/11c9db7a-ef77-4f2f-b989-136da84c4d5a)![image](https://github.com/user-attachments/assets/d50db848-4d92-4203-a7f9-b22bbe9f57c9)![image](https://github.com/user-attachments/assets/760b4e86-e72c-4e23-8a59-98203685cbab) 
-
+  
+![image](https://github.com/user-attachments/assets/d50db848-4d92-4203-a7f9-b22bbe9f57c9)![image](https://github.com/user-attachments/assets/760b4e86-e72c-4e23-8a59-98203685cbab)
 ### 🎬 AI-Powered Filmmaking Assistant
 - **AI Scene Generator (Dialogue Format)**: Produces **multiple film scenes**, ensuring coherence and context-based storytelling.
 - **Adaptive Learning AI**: Learns from past prompts to generate **new, context-aware content**.
