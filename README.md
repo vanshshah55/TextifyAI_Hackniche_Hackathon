@@ -1,42 +1,55 @@
-🚀 AI Copilot for Content Creators & Filmmakers
+# 🚀 AI Copilot for Content Creators & Filmmakers
 
-An AI-powered creative assistant designed for writers, poets, and filmmakers, enhancing content generation, editing, collaboration, and version control. The system includes AI-assisted text editing, content generation, video scripting, and storytelling automation.
+An AI-powered creative assistant designed for **writers, poets, and filmmakers**, enhancing content generation, editing, collaboration, and version control. The system includes AI-assisted **text editing, content generation, video scripting, and storytelling automation** to streamline the creative process.
 
-🌟 Features
+---
 
-📝 AI-Generated Content & Editing Assistance
+## 🌟 Features
 
-AI Text Editor: AI-powered writing assistance, including generation, enhancement, auto-completion, summarization, and grammar checks.
+### 📝 AI-Powered Text Editor
+- **AI Generation**: Creates **articles, scripts, dialogues, and scene descriptions**.
+- **AI Enhancer**: Improves **grammar, readability, and engagement**.
+- **AI Auto-Complete**: Predicts and suggests **words, phrases, and sentences**.
+- **Summarizer**: Generates **concise summaries** from long texts.
+- **Grammar Check**: Provides **AI-based correction and tone adjustment**.
+- **Voice Assistance**: **Text to speech & Speech to text functionality**.
+- **Document Analytics**: Tracks **real-time** word count, characters, paragraphs, reading & speaking time, session duration, words per minute, and average paragraph & word length.
+### 🎬 AI-Powered Filmmaking Assistant
+- **AI Scene Generator (Dialogue Format)**: Produces **multiple film scenes**, ensuring coherence and context-based storytelling.
+- **Adaptive Learning AI**: Learns from past prompts to generate **new, context-aware content**.
+- **AI-Powered Editing**: Suggests **cuts, transitions, and visual cues**.
+- **Scene Visualization**: Analyzes scripts and suggests **scene details**.
 
-AI Voice Assistance: Reads aloud generated content for better storytelling.
+### ✍️ AI Poem Studio & Reciter
+- **AI Poem Studio**: Assists in **writing poems and Shayari** and **Generating based on FineTuned AI Model** in diverse poetic styles and structures.
+- **AI Poem Enhancer**: Improves **rhythm, rhyme, and poetic structure**.
+- **AI Poem Reciter**: Reads out poetry with **expressive and engaging narration**.
 
-AI Blog & Social Media Post Writer: Generates articles, blog posts, and engaging social media content.
+### 🤝 Collaboration & Version Control
+- **Real-time Collaboration**: Enables **multi-user editing** with AI-assisted suggestions.
+- **GitHub-style Version Control**: Tracks **changes, reverts edits, and compares drafts**.
 
-🎬 AI-Powered Script & Scene Generation
+---
 
-AI Scene Generator (Dialogue Format): Generates multiple film scenes, ensuring coherence and context-based storytelling.
+## 🛠️ Tech Stack
+- **Frontend**: React.js
+- **Backend**: Python
+- **AI Models**: GroqAPI, Gemini API, Hugging Face
+- **Database**: Firebase
 
-Learning AI: Learns from past prompts to generate new, context-aware scenes.
+---
 
-AI Script Writer: Creates AI-generated scripts, dialogues, and scene descriptions.
+## 💡 Future Enhancements
+- **AI-powered storyboarding assistant** for visual storytelling.
+- **Integration with text-to-video AI tools** for automated video generation.
 
-✍️ AI Poem Studio & Reciter
+---
 
-AI Poem Studio: Assists in writing poems and Shayari in complex styles and poetic forms.
+## 💼 Contributors
 
-AI Poem Reciter: Reads out generated poetry in an expressive and engaging manner.
-
-🤝 Collaboration & Version Control
-
-Team Collaboration: Real-time multi-user editing with AI-assisted suggestions.
-
-Version Control: Similar to GitHub, allowing content history tracking and rollback.
-
-🛠️ Tech Stack
-
-Frontend: React.js
-
-Backend: Firebase
-
-AI APIs: GroqAPI, Gemini API, Hugging Face
+## 💼 Contributors  
+- **Vansh Shah** - [GitHub](https://github.com/vanshshah55)  
+- **Het Kothari** - [GitHub](https://github.com/hetkothari09)  
+- **Umang Prajapati** - [GitHub](https://github.com/Umang0310)  
+- **Het Rathod** - [GitHub] 
 
